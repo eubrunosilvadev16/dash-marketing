@@ -31,7 +31,7 @@ Você pode instalar as dependências necessárias com o seguinte comando:
 ```bash
 pip install streamlit pandas plotly
 
-## Como usar 🛠️
+Como usar 🛠️
 
 Clone este repositório para a sua máquina local:
 git clone https://github.com/seu-usuario/dash-marketing.git
